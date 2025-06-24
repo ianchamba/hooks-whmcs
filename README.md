@@ -24,6 +24,7 @@ Coleção de hooks úteis para WHMCS - Perfeito para empresas iniciantes
 Para usar o hook do CloudFlare Turnstile no tema Lagom, adicione o código abaixo em:
 RSThemes > Styles > Nome do Tema > Custom Code
 
+```css
 .cf-turnstile {
     height: 65px;
     margin-bottom: 12px;
@@ -79,6 +80,7 @@ RSThemes > Styles > Nome do Tema > Custom Code
         opacity: 0;
     }
 }
+```
 
 ## 📖 Créditos
 
