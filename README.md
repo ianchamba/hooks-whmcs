@@ -20,7 +20,7 @@ Coleção de hooks úteis para WHMCS - Perfeito para empresas iniciantes
 - PHP 7.4+
 
 ## 🎨 Compatibilidade com Lagom Theme
-- 
+
 Para usar o hook do CloudFlare Turnstile no tema Lagom, adicione o código abaixo em:
 RSThemes > Styles > Nome do Tema > Custom Code
 
